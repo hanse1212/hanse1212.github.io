@@ -6,10 +6,6 @@ section {
     height: 60%;
     border-bottom: 2px solid black;
     position: relative;
-    background-image: url('../img/cute_lyh.png');
-    background-repeat : no-repeat;
-    background-position: center;
-    background-size : cover;
 }
 table {
     position: absolute;
